@@ -1,0 +1,14 @@
+Explain why the student's answer is incorrect and provide the correct reasoning.
+
+Question: {question_text}
+Student's Answer: {student_answer}
+Correct Answer: {correct_answer}
+Explanation: {explanation}
+
+Provide a clear, step-by-step explanation of:
+1. Why the student's answer is wrong
+2. The correct approach/reasoning
+3. Key concepts involved
+4. How to avoid this mistake in the future
+
+Keep the explanation educational and encouraging.

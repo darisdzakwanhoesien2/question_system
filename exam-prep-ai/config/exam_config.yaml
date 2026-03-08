@@ -1,0 +1,62 @@
+exams:
+  sat:
+    name: "SAT"
+    time_limit_minutes: 180
+    total_questions: 100
+    sections:
+      - name: "Reading"
+        questions: 52
+        time_minutes: 65
+      - name: "Writing and Language"
+        questions: 44
+        time_minutes: 35
+      - name: "Math"
+        questions: 58
+        time_minutes: 80
+  gre:
+    name: "GRE"
+    time_limit_minutes: 235
+    total_questions: 82
+    sections:
+      - name: "Verbal Reasoning"
+        questions: 40
+        time_minutes: 60
+      - name: "Quantitative Reasoning"
+        questions: 40
+        time_minutes: 70
+      - name: "Analytical Writing"
+        questions: 2
+        time_minutes: 60
+  toefl:
+    name: "TOEFL"
+    time_limit_minutes: 195
+    total_questions: 120
+    sections:
+      - name: "Reading"
+        questions: 36
+        time_minutes: 54
+      - name: "Listening"
+        questions: 34
+        time_minutes: 41
+      - name: "Speaking"
+        questions: 6
+        time_minutes: 17
+      - name: "Writing"
+        questions: 2
+        time_minutes: 50
+
+question_types:
+  mcq:
+    options_count: 4
+    scoring: "exact_match"
+  short_answer:
+    max_length: 500
+    scoring: "semantic_similarity"
+  essay:
+    max_length: 2000
+    scoring: "rubric_based"
+
+scoring_weights:
+  mcq: 1.0
+  short_answer: 1.0
+  essay: 2.0

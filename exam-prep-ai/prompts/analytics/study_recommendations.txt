@@ -1,0 +1,18 @@
+Based on the student's performance, generate personalized study recommendations.
+
+Weak Areas: {weak_areas}
+Strong Areas: {strong_areas}
+Time Available: {time_available} hours/week
+Exam Date: {exam_date}
+
+Current Performance:
+{performance_summary}
+
+Generate a study plan with:
+1. Priority topics to focus on
+2. Daily/weekly study schedule
+3. Specific practice recommendations
+4. Resource suggestions
+5. Timeline to exam date
+
+Make the plan realistic and achievable.

@@ -1,0 +1,21 @@
+{
+  "exam_id": "gre_02",
+  "exam_name": "GRE Practice Set 2",
+  "exam_type": "gre",
+  "questions": [
+    {
+      "id": "gre_02_short_001",
+      "type": "short_answer",
+      "question_text": "What is the derivative of f(x) = x^3 + 2x^2 - 5x + 1?",
+      "sample_answer": "f'(x) = 3x^2 + 4x - 5",
+      "rubric": {
+        "criteria": "Correct application of power rule and constant rule"
+      },
+      "difficulty": "easy",
+      "topic": "Quantitative",
+      "subtopic": "Calculus",
+      "points": 1,
+      "max_length": 100
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "exam_id": "toefl_01",
+  "exam_name": "TOEFL Practice Set 1",
+  "exam_type": "toefl",
+  "questions": [
+    {
+      "id": "toefl_01_mcq_001",
+      "type": "mcq",
+      "question_text": "What does the professor imply about the research findings?",
+      "options": [
+        {"text": "They are inconclusive", "is_correct": true},
+        {"text": "They are definitive", "is_correct": false},
+        {"text": "They need more funding", "is_correct": false},
+        {"text": "They are outdated", "is_correct": false}
+      ],
+      "explanation": "The professor suggests the findings are not conclusive and more research is needed.",
+      "difficulty": "medium",
+      "topic": "Listening",
+      "subtopic": "Inference",
+      "points": 1
+    }
+  ]
+}

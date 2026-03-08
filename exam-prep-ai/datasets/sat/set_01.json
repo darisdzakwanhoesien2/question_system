@@ -1,0 +1,54 @@
+{
+  "exam_id": "sat_01",
+  "exam_name": "SAT Practice Set 1",
+  "exam_type": "sat",
+  "questions": [
+    {
+      "id": "sat_01_mcq_001",
+      "type": "mcq",
+      "question_text": "Which of the following is the best definition of a metaphor?",
+      "options": [
+        {"text": "A comparison using like or as", "is_correct": false},
+        {"text": "A direct comparison without using like or as", "is_correct": true},
+        {"text": "A type of rhyme scheme", "is_correct": false},
+        {"text": "A narrative poem", "is_correct": false}
+      ],
+      "explanation": "A metaphor is a figure of speech that makes a direct comparison between two unlike things without using 'like' or 'as'.",
+      "difficulty": "easy",
+      "topic": "Reading",
+      "subtopic": "Literary Devices",
+      "points": 1
+    },
+    {
+      "id": "sat_01_short_001",
+      "type": "short_answer",
+      "question_text": "Explain the main theme of Romeo and Juliet in one sentence.",
+      "sample_answer": "The main theme of Romeo and Juliet is the destructive power of hatred and the redemptive power of love.",
+      "rubric": {
+        "criteria": "Clear, concise statement that captures the central conflict between love and hate"
+      },
+      "difficulty": "medium",
+      "topic": "Reading",
+      "subtopic": "Themes",
+      "points": 1,
+      "max_length": 200
+    },
+    {
+      "id": "sat_01_essay_001",
+      "type": "essay",
+      "question_text": "Evaluate the extent to which the character's actions in the passage reflect the theme of ambition.",
+      "sample_answer": "The character's relentless pursuit of power demonstrates how ambition can corrupt moral judgment and lead to tragic consequences.",
+      "rubric": {
+        "thesis": "Clear thesis statement that addresses the prompt",
+        "evidence": "Use of specific examples from the text",
+        "analysis": "Explanation of how evidence supports the thesis",
+        "style": "Clear organization and effective language"
+      },
+      "difficulty": "hard",
+      "topic": "Writing",
+      "subtopic": "Analysis",
+      "points": 2,
+      "max_length": 1500
+    }
+  ]
+}

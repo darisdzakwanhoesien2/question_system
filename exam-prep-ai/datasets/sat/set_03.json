@@ -1,0 +1,23 @@
+{
+  "exam_id": "sat_03",
+  "exam_name": "SAT Practice Set 3",
+  "exam_type": "sat",
+  "questions": [
+    {
+      "id": "sat_03_mcq_001",
+      "type": "mcq",
+      "question_text": "Which word best completes the sentence: The scientist's theory was ______ by new evidence.",
+      "options": [
+        {"text": "corroborated", "is_correct": true},
+        {"text": "contradicted", "is_correct": false},
+        {"text": "ignored", "is_correct": false},
+        {"text": "dismissed", "is_correct": false}
+      ],
+      "explanation": "Corroborated means confirmed or supported by evidence.",
+      "difficulty": "hard",
+      "topic": "Writing",
+      "subtopic": "Vocabulary",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "exam_id": "gre_01",
+  "exam_name": "GRE Practice Set 1",
+  "exam_type": "gre",
+  "questions": [
+    {
+      "id": "gre_01_mcq_001",
+      "type": "mcq",
+      "question_text": "Choose the word that best completes the analogy: Book is to Library as Painting is to ______",
+      "options": [
+        {"text": "Museum", "is_correct": true},
+        {"text": "Artist", "is_correct": false},
+        {"text": "Canvas", "is_correct": false},
+        {"text": "Frame", "is_correct": false}
+      ],
+      "explanation": "A library is a repository for books, just as a museum is a repository for paintings.",
+      "difficulty": "medium",
+      "topic": "Verbal",
+      "subtopic": "Analogies",
+      "points": 1
+    }
+  ]
+}

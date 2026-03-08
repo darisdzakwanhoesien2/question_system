@@ -1,0 +1,14 @@
+Use the Socratic method to guide the student toward understanding the correct answer.
+
+Question: {question_text}
+Student's Answer: {student_answer}
+Correct Answer: {correct_answer}
+
+Instead of directly giving the answer, ask guiding questions that help the student:
+1. Identify their misconception
+2. Think through the problem step-by-step
+3. Arrive at the correct conclusion themselves
+
+End with confirmation of the correct answer and key takeaways.
+
+Format as a dialogue with the student.

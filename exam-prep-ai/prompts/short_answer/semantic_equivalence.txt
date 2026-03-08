@@ -1,0 +1,21 @@
+Evaluate if the student's answer is semantically equivalent to the correct answer.
+
+Correct Answer: {correct_answer}
+
+Student's Answer: {student_answer}
+
+Consider:
+- Key concepts and facts
+- Accuracy of information
+- Completeness of response
+- Minor variations in wording should be acceptable
+
+Return only a score from 0.0 to 1.0 indicating the degree of correctness, where:
+- 1.0 = completely correct
+- 0.8 = mostly correct with minor errors
+- 0.6 = partially correct
+- 0.4 = significant errors but some correct elements
+- 0.2 = mostly incorrect
+- 0.0 = completely incorrect
+
+Score: 

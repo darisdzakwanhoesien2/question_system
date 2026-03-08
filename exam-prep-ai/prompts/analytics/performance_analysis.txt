@@ -1,0 +1,18 @@
+Analyze the student's exam performance data and provide insights.
+
+Performance Data:
+{performance_data}
+
+Key Metrics:
+- Accuracy: {accuracy}%
+- Average time per question: {avg_time}s
+- Topics covered: {topics}
+
+Please provide:
+1. Overall performance assessment
+2. Topic-wise analysis
+3. Time management evaluation
+4. Learning pattern insights
+5. Specific recommendations for improvement
+
+Focus on actionable insights that will help the student improve.

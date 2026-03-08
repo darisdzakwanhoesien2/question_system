@@ -1,0 +1,23 @@
+{
+  "exam_id": "sat_02",
+  "exam_name": "SAT Practice Set 2",
+  "exam_type": "sat",
+  "questions": [
+    {
+      "id": "sat_02_mcq_001",
+      "type": "mcq",
+      "question_text": "What is the slope of the line that passes through points (2, 3) and (4, 7)?",
+      "options": [
+        {"text": "2", "is_correct": true},
+        {"text": "1", "is_correct": false},
+        {"text": "3", "is_correct": false},
+        {"text": "4", "is_correct": false}
+      ],
+      "explanation": "Slope = (y2 - y1)/(x2 - x1) = (7 - 3)/(4 - 2) = 4/2 = 2",
+      "difficulty": "medium",
+      "topic": "Math",
+      "subtopic": "Linear Equations",
+      "points": 1
+    }
+  ]
+}

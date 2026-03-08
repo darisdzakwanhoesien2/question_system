@@ -1,0 +1,24 @@
+{
+  "exam_id": "toefl_02",
+  "exam_name": "TOEFL Practice Set 2",
+  "exam_type": "toefl",
+  "questions": [
+    {
+      "id": "toefl_02_essay_001",
+      "type": "essay",
+      "question_text": "Do you agree or disagree with the following statement? Technology has made our lives better. Use specific reasons and examples to support your answer.",
+      "sample_answer": "I agree that technology has improved our lives by increasing efficiency, connectivity, and access to information, though it also presents challenges like privacy concerns.",
+      "rubric": {
+        "thesis": "Clear position on the topic",
+        "development": "Specific reasons and examples",
+        "organization": "Logical structure and transitions",
+        "language": "Varied vocabulary and grammar"
+      },
+      "difficulty": "medium",
+      "topic": "Writing",
+      "subtopic": "Opinion Essay",
+      "points": 2,
+      "max_length": 1200
+    }
+  ]
+}
